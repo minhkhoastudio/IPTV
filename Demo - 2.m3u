@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="http://trada.info/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+
+#COPPYRIGHT BY PCRTV# 
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SportsTV360" tvg-logo="https://hnib2c.mytv.vn/static/channel_by_id/208.png",ON FOOTBALL mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0273ee773b934ab5bcb8d9e3c0077be2&key=f4dd99059e839dfa386db42c9c29fc98
+http://live.tv360.vn/manifest/VTVCab16_HD/master.mpd?hdnts=exp=1650004603~acl=/*~hmac=c4601949a8018cdf9c175a90760a20fc07c91a259ca66d442d604eca085605a5
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SportsTV360" tvg-logo="https://hnib2c.mytv.vn/static/channel_by_id/200.png",ON SPORT mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=881ba47ab67d427c80c6c60d359fe7eb&key=5435eabe6e87811dfe46ccd54b699a7c
+http://live.tv360.vn/manifest/VTVCab3_HD/master.mpd?hdnts=exp=1650084690~acl=/*~hmac=6b088996041258be492eda4357f2d4e55c7d1a39c9ee7ef79387068619388b0c
+
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="SportsTV360" tvg-logo="https://hnib2c.mytv.vn/static/channel_by_id/441.png",ON SPORT News Premium mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce3df93139a846c9be951ed7cf96e101&key=1774dc715983d5d32a8ef956d78af346
+http://live.tv360.vn/manifest/VTVCab18_HD/master.mpd?hdnts=exp=1650088421~acl=/*~hmac=9f9e7a07b2935424b063a71a23c7dfa16afba6ea123d722195b0cef1df45c004
+
+
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="SportsTV360" tvg-logo="https://hnib2c.mytv.vn/static/channel_small/415.png",ON Sport+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=509be418812c44fcbfe648f3412346db&key=3dba543d6ee3c1162656953c66359391
+http://live.tv360.vn/manifest/Onsport/master.mpd?hdnts=exp=1650106769~acl=/*~hmac=a8a0c9011e2692a4be5ab6d8f8cddd1e00d1315bdf246c3e6469f6782cb2b5e2
