@@ -543,7 +543,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
 
 #EXTINF:-1 group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
