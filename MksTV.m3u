@@ -244,8 +244,9 @@ http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/bbOifca.png" group-title="2️⃣| Quốc Tế",Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
+#EXTINF:0 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="smithsonianchannel" gtvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg" group-title="2️⃣| Quốc Tế", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
