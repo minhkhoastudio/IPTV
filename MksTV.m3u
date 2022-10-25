@@ -530,7 +530,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
 
-#EXTINF:-1 group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+#EXTINF:-1 group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
