@@ -225,10 +225,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="man" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" group-title="2️⃣| Quốc Tế" , Man
 http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Man
 
-#EXTINF:-1 tvg-id="musicbox"tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
 http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Music-Box
 
-#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV" tvg-logo="https://i.imgur.com/uYl6cii.png" group-title="2️⃣| Quốc Tế", MTV
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://i.imgur.com/uYl6cii.png" group-title="2️⃣| Quốc Tế", MTV
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/OBtLQ9N.png" group-title="2️⃣| Quốc Tế", Nat Geo
