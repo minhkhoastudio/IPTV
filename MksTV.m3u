@@ -202,8 +202,7 @@ https://tbtv.us/channel/?hollywood_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Ref
 
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png" group-title="2️⃣| Quốc Tế" , In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?1707498000bcb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?1707498000bcb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="2️⃣| Quốc Tế", KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
@@ -219,8 +218,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" group-title="2️⃣| Quốc Tế" , Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?man_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?1707498000mb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8
 
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
