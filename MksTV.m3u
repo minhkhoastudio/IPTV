@@ -729,12 +729,8 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong9" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", Bình Dương 9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="binhduong10" group-title="7️⃣| Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/NCM_BTV10_logo.png/revision/latest?cb=20181008070900&path-prefix=vi",Bình Dương 10
-https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="binhduong11" group-title="7️⃣| Địa Phương" tvg-logo="http://tivihot.net/wp-content/uploads/2019/07/icon_channel_sam_tivihotnet.jpg", Bình Dương 11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 tvg-id="binhdinh" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/tLtzj7y/binh-dinh-tv-BEARTV.png", Bình Định
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
