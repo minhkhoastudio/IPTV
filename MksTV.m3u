@@ -165,8 +165,9 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="drfithd" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" group-title="2️⃣| Quốc Tế", Dr.Fit
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?drfit_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="2️⃣| Quốc Tế", DW
 http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
@@ -178,8 +179,9 @@ http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="happykids" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png" group-title="2️⃣| Quốc Tế", Happy Kids
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?happykid_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="2️⃣| Quốc Tế", HBO
 http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -194,11 +196,14 @@ http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=000
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
 
 #EXTINF:0 tvg-id="hollywoodclassics" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png" group-title="2️⃣| Quốc Tế" , Hollywood Classics
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?hollywood_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png" group-title="2️⃣| Quốc Tế" , In The Box
-http://gg.gg/inthebox123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?1707498000bcb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="2️⃣| Quốc Tế", KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
@@ -213,10 +218,14 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" group-title="2️⃣| Quốc Tế" , Man
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?man_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Music-Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?boxmusic_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV" tvg-logo="https://i.imgur.com/uYl6cii.png" group-title="2️⃣| Quốc Tế", MTV
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
@@ -237,13 +246,14 @@ http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://tbtv.us/channel/?1707498000peb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth sv2
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 
-#EXTINF:-1 tvg-id="smithsonianchannel" gtvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg" group-title="2️⃣| Quốc Tế", Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" gtvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg" group-title="2️⃣| Quốc Tế", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" tvg-logo="https://i.imgur.com/GTULNgT.png" group-title="2️⃣| Quốc Tế",TLC
