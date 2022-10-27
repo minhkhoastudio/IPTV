@@ -257,7 +257,7 @@ http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?1707498000peb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?1710003600ped33b332ef1e2413840ef141de5f69d92571f67d6/m3u8#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth sv2
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
