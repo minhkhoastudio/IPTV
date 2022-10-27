@@ -178,7 +178,7 @@ http://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" group-title="2️⃣| Quốc Tế", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?drfit_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?drfit_d33b332ef1e2413840ef141de5f69d92571f67d6#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="2️⃣| Quốc Tế", DW
 http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
@@ -192,7 +192,7 @@ http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png" group-title="2️⃣| Quốc Tế", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?happykid_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?happykid_d33b332ef1e2413840ef141de5f69d92571f67d6#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="2️⃣| Quốc Tế", HBO
 http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -201,7 +201,7 @@ http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png" group-title="2️⃣| Quốc Tế", HISTORY
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=000
+https://tbtv.us/getlink/?d33b332ef1e2413840ef141de5f69d92571f67d6=https://vipotv.com/viasat-history/
 
 #EXTINF:-1 tvg-id="hits" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822037594/91bf6d3a7d09.png" group-title="2️⃣| Quốc Tế", HITS
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
@@ -209,11 +209,11 @@ http://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png" group-title="2️⃣| Quốc Tế" , Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?hollywood_b2543cc9d69e4c5682053a5869b07ab1055d6dcf#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?hollywood_d33b332ef1e2413840ef141de5f69d92571f67d6#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png" group-title="2️⃣| Quốc Tế" , In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/?1707498000bcb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8
+https://tbtv.us/channel/?1710003600bcd33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="2️⃣| Quốc Tế", KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
@@ -229,7 +229,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" group-title="2️⃣| Quốc Tế" , Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/?1707498000mb2543cc9d69e4c5682053a5869b07ab1055d6dcf/m3u8
+https://tbtv.us/channel/?1710003600md33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
