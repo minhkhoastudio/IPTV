@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg", ON Sports
@@ -213,7 +213,7 @@ https://tbtv.us/channel/?hollywood_d33b332ef1e2413840ef141de5f69d92571f67d6#|Ref
 
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png" group-title="2️⃣| Quốc Tế" , In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/?1710003600bcd33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/?1712682000bcd33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="2️⃣| Quốc Tế", KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
@@ -229,7 +229,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="man" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" group-title="2️⃣| Quốc Tế" , Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/?1710003600md33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/?1712682000md33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="2️⃣| Quốc Tế" , Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
@@ -257,7 +257,7 @@ http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://tbtv.us/channel/?1710003600ped33b332ef1e2413840ef141de5f69d92571f67d6/m3u8#|Referer=http://sctvonline.vn/
+https://tbtv.us/channel/?1712682000ped33b332ef1e2413840ef141de5f69d92571f67d6/m3u8#|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="2️⃣| Quốc Tế", Planet Earth sv2
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
@@ -606,24 +606,24 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDX_aMAIhXha?format=png", SCTV1 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036001d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
-https://tbtv.us/channel/sctv?17100036001d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820001d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820001d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYGakAM2fo4?format=png", SCTV2 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036002d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820002d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYDacAAF2KI?format=png", SCTV3 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036003d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820003d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qGXCaQAAjs56?format=png", SCTV4 sv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036004d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820004d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qGYgaUAIDZFh?format=png", SCTV5 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036005d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820005d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qGZJagAM5Dvo?format=png" , SCTV6 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
@@ -631,71 +631,71 @@ https://tbtv.us/channel/tv360/?d33b332ef1e2413840ef141de5f69d92571f67d6=232&hd=2
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qGZ0akAckG7V?format=png", SCTV7 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036007d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820007d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJkBakAA0QcE?format=png", SCTV8 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?17100036009d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?17126820009d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360010d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200010d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJlmaQAAaO88?format=png", SCTV10 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360012d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200012d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJmNaMAA_HU3?format=png", SCTV11 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360011d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200011d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qMHwaMAIOPRb?format=png", SCTV12 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360012d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200012d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qMIyaQAAXvYX?format=png", SCTV13 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360013d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200013d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV14 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360014d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200014d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qMKjaQAUbw1Y?format=png", SCTV15 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360015d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200015d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQqqaQAAvJ1O?format=png", SCTV16 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360016d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200016d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360017d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200017d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQsnaIAAb17G?format=png", SCTV18 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360018d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200018d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQtXaAAMGj6n?format=png", SCTV19 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 ozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360019d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200019d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qTB2agAkzj1T?format=png", SCTV20 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360020d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200020d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qTC-akAET2F-?format=png", SCTV21 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360021d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200021d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qTDcaIAECF-Z?format=png", SCTV22 sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?171000360022d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?171268200022d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="6️⃣| SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim Tổng Hợp sv2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbtv.us/channel/sctv?1710003600d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
+https://tbtv.us/channel/sctv?1712682000d33b332ef1e2413840ef141de5f69d92571f67d6/m3u8
 
 
 #EXTINF:-1 tvg-id="angiang" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png", An Giang
