@@ -200,8 +200,6 @@ http://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/history/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-https://tbtv.us/getlink/?669a0232116a5f7d38954ff8dd0039f02f2a98f2=https://vipotv.com/viasat-history/
-
 #EXTINF:-1 tvg-id="hits" group-title="2️⃣| Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822037594/91bf6d3a7d09.png", HITS
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
 
@@ -223,9 +221,8 @@ http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/gy2gmb6xbs60yrw/
 
 #EXTINF:-1 tvg-id="musicbox" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
