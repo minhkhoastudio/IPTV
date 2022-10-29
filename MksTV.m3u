@@ -194,7 +194,7 @@ https://tbtv.us/channel/?happykid_669a0232116a5f7d38954ff8dd0039f02f2a98f2#|Refe
 #EXTINF:-1 tvg-id="hbohd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/w5u4IrO.png", HBO
 http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" group-title="2️⃣| Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png" HGTV
+#EXTINF:-1 tvg-id="hgtv" group-title="2️⃣| Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png", HGTV
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 
 #EXTINF:-1 tvg-id="history" group-title="2️⃣| Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png", HISTORY
