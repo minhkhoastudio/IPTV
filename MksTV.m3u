@@ -1073,19 +1073,19 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAA/m30_index.m3u8
 #https://api.vthanhtivi.pw/v1/getlink/mytv_web/449/hd
 
 
-#EXTINF:-1 tvg-id="htvc_coop" group-title="9️⃣| Shopping" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp", HTVC Co.op
+#EXTINF:-1 tvg-id="htvc_coop" group-title="9️⃣| Mua sắm" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp", HTVC Co.op
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
-#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="9️⃣| Shopping" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp", HTVC VGS Shop
+#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="9️⃣| Mua sắm" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp", HTVC VGS Shop
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="9️⃣| Shopping" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png", VTVCab11 VGS Shop
+#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="9️⃣| Mua sắm" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png", VTVCab11 VGS Shop
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/28/2
 
-#EXTINF:-1 tvg-id="sctv10" group-title="9️⃣| Shopping" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+#EXTINF:-1 tvg-id="sctv10" group-title="9️⃣| Mua sắm" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="9️⃣| Shopping" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="9️⃣| Mua sắm" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
 
 
