@@ -325,15 +325,14 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png", Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/thumbh_20210524_235219.jpg",MotorRacing
+#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/thumbh_20210524_235219.jpg", MotorRacing
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/j7h4gFbd4/%2B0700/c.m3u8
 
-#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/thumbh_20220301_212731.png",Boxing TV
+#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/thumbh_20220301_212731.png", Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/thumbh_20201117_210342.jpg",SportsGrid
+#EXTINF:-1 group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/thumbh_20201117_210342.jpg", SportsGrid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8
-
 
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/vJL1pG6/ABC-BEARTV.png", ABC Australia
@@ -515,7 +514,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth sv2
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" gtvg-logo="https://i.ytimg.com/vi/E73Bz0Qlvxk/maxresdefault.jpg", Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" gtvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/GTULNgT.png", TLC
@@ -634,7 +633,7 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/32/0
 #EXTINF:-1 tvg-id="youtv" group-title="3️⃣| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="antg" group-title="3️⃣| VTV" vg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
+#EXTINF:-1 tvg-id="antg" group-title="3️⃣| VTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600823403571/7eff0ae17e22_480_270.png", An Ninh Thế Giới
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/21/0
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="4️⃣| VTC" tvg-logo="https://pbs.twimg.com/media/Fa6ZTVIagAE_LiP?format=png", VTC1
