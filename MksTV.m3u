@@ -514,7 +514,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth sv2
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" gtvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png", Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/GTULNgT.png", TLC
