@@ -205,7 +205,8 @@ https://api.vthanhtivi.pw/v1/getlink/dp/thvlradio
 #EXTINF:-1 group-title="📻|Radio" tvg-logo="http://www.radiovietnamonline.com/img/vietnam/r-yenbai.png",Yên Bái
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
-
+#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://item.radio456.com/007452/330159/logo-11251.png", CALI Saigon Radio 106.3 FM
+http://ice5.securenetsystems.net/KALI
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26186g.png", KVVN 1430AM - Santa Clara California
 http://173.193.205.96:8070/;stream
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrWYNkxyliez5mc5UILytW5Xoxw96NLiU2YqZRrE6J41yEaZCkHHxC8g0-FGecwSbdmL8&usqp=CAU", Little Saigon Radio KVNR 1480Am - Westminster, California
@@ -218,5 +219,11 @@ http://live02.rfi.fr//rfivietnamien-96k.mp3
 https://ice5.securenetsystems.net/KALI?playSessionID=0712D6B2-DD5D-74B2-ADEF62563B7CBEEA
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/32/e0/c1/32e0c154-8439-5a2f-3bfe-879daddd9c39/AppIcon-1x_U007emarketing-85-220-0-5.png/492x0w.webp", Saigon Houston 900AM - Houston, Texas
 http://shout.audionow.com:8000/RadioSaigonHuston
-#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://cdn-radiotime-logos.tunein.com/s137304d.png", Viet Washington DC Radio
+#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://item.radio456.com/007452/330159/logo-35384.png", TNT Radio
+http://162.244.80.118:3092/stream.mp3
+#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://snappy.appypie.com/media/splash/usr_1415073906_img.jpg", Viên Thao 1290AM - San Jose, California
+http://stream.zeno.fm/dw22656b8e9uv
+#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://i0.wp.com/vietwdcradio.com/wp-content/uploads/2017/10/cropped-cropped-logo_VATV_1200x-1.jpg?w=248", Viet Washington DC Radio
 http://varadio.serverroom.net:7968//;
+#EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="http://www.thanhtungentertainment.com/images/logo.jpg", HOT NEWS 1500AM - San Jose, California
+http://stream.zeno.fm/uryy10ednkhvv
