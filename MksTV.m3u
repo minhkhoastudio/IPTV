@@ -404,7 +404,7 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/zPZPmHd/CNA-BEARTV.png", CNA
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" group-title="2️⃣| Quốc Tế"  tvg-logo="https://i.imgur.com/EwLawKc.png", CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/EwLawKc.png", CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/vBwWXZZ.png", CNN
