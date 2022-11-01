@@ -1,22 +1,6 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 #Listed by MK Studio: http://hqth.me/tv
 
-
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/CWYnvBt/Bloomberg4-K-cc.png",Bloomberg ⁴ᵏ
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
-
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png",Clarity ⁴ᵏ
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/hCsqbBT/FTV4K-cc.png",Fashion TV ⁴ᵏ
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/y49ghHm/Loupe-cc.png",Loupe ⁴ᵏ
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/love-nature.png",Love Nature ⁴ᵏ
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/1QWwDwg/kcinehd.png,K+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,6 +30,22 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4lnq81960mkec7h/kplus-ksport2hd.key
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/CWYnvBt/Bloomberg4-K-cc.png",Bloomberg ⁴ᵏ
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
+
+#EXTINF:-1 tvg-id="clarity" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png",Clarity ⁴ᵏ
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/hCsqbBT/FTV4K-cc.png",Fashion TV ⁴ᵏ
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="loupe" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/y49ghHm/Loupe-cc.png",Loupe ⁴ᵏ
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/love-nature.png",Love Nature ⁴ᵏ
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://fptplay.vn/images/logo-2.png",F Event 01
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
