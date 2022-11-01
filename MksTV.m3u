@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #Listed by MK Studio: http://hqth.me/tv
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/1QWwDwg/kcinehd.png,K+ Cine
@@ -157,6 +157,9 @@ http://live-vn.cvacetv.ga:8080/live1
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
+
+#EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 3
+http://live-vn.cvacetv.ga:8080/live3
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
@@ -444,7 +447,7 @@ http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/bbZ3NpB.png",Fashion TV
 http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="fashionmn" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/drCHFvz/Fashion-TV.png",Fashion TV Midnite
+#EXTINF:-1 tvg-id="fashionmn" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/j5thmmF/Mid9-cc.png",Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/i0BDIFo.png",France 24
