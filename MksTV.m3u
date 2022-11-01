@@ -23,7 +23,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/w6ax1h2qbbx5u6s/kplus-kcinehd.key
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/CWHs2xM/klifehd.png", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/frcQ3R5/kkisd.jpg", K+ Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/t1u8f4z1mg0ls61/kplus-kkidshd.key
