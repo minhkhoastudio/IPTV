@@ -19,7 +19,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/onzw8f2ciyf5pql/kplus-klifehd.key
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/VtQgW31/ksport1hd.png",K+ Sports1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/VtQgW31/ksport1hd.png",K+ Sport1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/l12jynesa2u4bbb/kplus-ksport1hd.key
