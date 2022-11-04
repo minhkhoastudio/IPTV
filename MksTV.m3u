@@ -404,14 +404,17 @@ http://live.vthanhtivi.pw:8080/boxhits
 #EXTINF:-1 tvg-id="boxmovie1" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",Box Movie 1
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 
+#EXTINF:-1 tvg-id="cinelife" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp",CineLife 
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/QyOuOmc.png",Cartoon Network
+http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/MqpUsLb.png",Cinema World
 http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/pjnAxys.png",Cinemax
 http://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/QyOuOmc.png",Cartoon Network
-http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="newasia" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/iX9c7AK.png",Channel NewsAsia
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -515,6 +518,9 @@ http://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/f3f3d79.png",NHK World
 http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="oan" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
+
 #EXTINF:-1 tvg-id="outdoorhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/bbOifca.png",Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -540,6 +546,9 @@ http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/CnjjjjV.png",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="wildlife" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png",Woman
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
