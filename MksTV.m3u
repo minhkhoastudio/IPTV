@@ -59,9 +59,43 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP: inputstream.adaptive.license_type=clearkey
 #KODIPROP: inputstream.adaptive.license_key={"key":[{"kty":"oct","k":"qB9ZL7EDZJ0y9/SzPViVnw","kid":"CCTMsjFsTz2IIProC0nQUA"}],"type":"temporary"}
-#EXTVLCOPT: http-user-agent = Dalvik / 2.1.0
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/w6ax1h2qbbx5u6s/kplus-kcinehd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd", NGUỒN BẢO CHÍNH
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/w6ax1h2qbbx5u6s/kplus-kcinehd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd", K+Cine HD
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/onzw8f2ciyf5pql/kplus-klifehd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="klifehd", K+Life HD
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/l12jynesa2u4bbb/kplus-ksport1hd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd", K+Sport1 
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4lnq81960mkec7h/kplus-ksport2hd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd", K+Sport2 
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/t1u8f4z1mg0ls61/kplus-kkidshd.key
+#EXTINF:-1 group-title="Kplus" tvg-id="kkidshd", K+Kids HD
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #EXTINF:-1 tvg-id="beinsportsuhd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
@@ -560,12 +594,11 @@ http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth sv2
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
@@ -818,8 +851,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
 https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png",SCTV12 HD
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png",SCTV13 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
@@ -837,8 +870,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png",SCTV18 HD
-#https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
+#https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="6️⃣| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png",SCTV19 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
