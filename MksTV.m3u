@@ -367,7 +367,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 #EXTINF:-1 tvg-id="sctv22hd" group-title="1️⃣| Thể Thao" tvg-logo="https://pbs.twimg.com/media/Fa6qTDcaIAECF-Z?format=png",SCTV22
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv22
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="1️⃣| Thể Thao" tvg-logo="https://pbs.twimg.com/media/Fa6qDYHagAYHsXG?format=png",BTV5
+#EXTINF:-1 tvg-id="btv5hd" group-title="1️⃣| Thể Thao" tvg-logo="http://tv247.vn/storage/tmp/cb4f707f912cc76d5f3c2dc20bdb8d50-293x177.png",BTV5
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png",TVRI SPORT
@@ -1125,17 +1125,17 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="7️⃣| Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/binhduong4.png",Bình Dương 4
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="7️⃣| Địa Phương" tvg-logo="https://pbs.twimg.com/media/Fa6qDYHagAYHsXG?format=png",Bình Dương 5
+#EXTINF:-1 tvg-id="btv5hd" group-title="7️⃣| Địa Phương" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",Bình Dương 5
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="binhduong6" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/d6GLN69/BTV6-BEARTV.png",Bình Dương 6
+#EXTINF:-1 tvg-id="binhduong6" group-title="7️⃣| Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_165655637517.png",Bình Dương 6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong9" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png",Bình Dương 9
+#EXTINF:-1 tvg-id="binhduong9" group-title="7️⃣| Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_165655638408.png",Bình Dương 9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="binhduong11" group-title="7️⃣| Địa Phương" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",Bình Dương 11
+#EXTINF:-1 tvg-id="binhduong11" group-title="7️⃣| Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_165655639145.png",Bình Dương 11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="binhdinh" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/binhdinh.jpg",Bình Định
@@ -1183,7 +1183,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/dongthap.jpg",Đồng Tháp
 http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2" group-title="7️⃣| Địa Phương" tvg-logo="https://img.hplus.com.vn/355x200/poster/2022/04/27/323478-Logo-Dong-thap-2.png",Đồng Tháp 2
+#EXTINF:-1 tvg-id="dongthap2" group-title="7️⃣| Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mien-tay-thdt2_165666993738.png",Đồng Tháp 2
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 
 #EXTINF:-1 tvg-id="gialai" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/gialai.jpg",Gia Lai
