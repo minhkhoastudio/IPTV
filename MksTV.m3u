@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://gg.gg/epgchungxda,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml"
+﻿#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml"
 #Listed by MK Studio: http://hqth.me/tv
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://i.ibb.co/1QWwDwg/kcinehd.png,K+ Cine
@@ -64,14 +64,14 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/w6ax1h2qbbx5u6s/kplus-kcinehd.key
-#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="kcinehd", NGUỒN BẢO CHÍNH
+#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="kcinehd", K+Cine HD
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/w6ax1h2qbbx5u6s/kplus-kcinehd.key
-#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="kcinehd", K+Cine HD
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/t1u8f4z1mg0ls61/kplus-kkidshd.key
+#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="kkidshd", K+Kids HD
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,12 +90,6 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4lnq81960mkec7h/kplus-ksport2hd.key
 #EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="ksport2hd", K+Sport2 
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/t1u8f4z1mg0ls61/kplus-kkidshd.key
-#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="kkidshd", K+Kids HD
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://bit.ly/khichtiviSPORT1",K+CINE SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
