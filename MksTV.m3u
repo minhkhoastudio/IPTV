@@ -542,13 +542,13 @@ https://api.vthanhtivi.pw/v1/getlink/mytv_web/69/hd
 #EXTINF:-1 tvg-id="mtvhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/uYl6cii.png",MTV
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="nasa" group-title="2️⃣| Quốc Tế" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/06/NASA.jpg",NASA TV
+#EXTINF:-1 tvg-id="nasa" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=download&id=1W4CFVLKbClNiGZQhpJtNYHZpbCcxc9hr",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/OBtLQ9N.png",National Geographic Channel
 http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ngachd" group-title="2️⃣| Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhnKjNH9EmjI7TcRVuz9nucLfsOnpx8dFmtLpcO3w=s88-c-k-c0x00ffffff-no-rj",Nat Geo Abu Dhabi HD
+#EXTINF:-1 tvg-id="ngachd" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=download&id=1provAmL_CMx2PubZNTfUxQj8nRjHlGbH",Nat Geo Abu Dhabi HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="ngwhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/xl56lDl.png",Nat Geo Wild
@@ -573,7 +573,7 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" tvg-logo="https://www.logolynx.com/images/logolynx/s_be/be83b18853780f37f100ef70c91ecc21.jpeg",Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=download&id=1pG_MLoRZcJxSwMfuaCwBSkGnZgx-BrGK",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/GTULNgT.png",TLC
