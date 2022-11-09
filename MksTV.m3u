@@ -309,7 +309,7 @@ https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
 https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-football.jpg",ON Football sv2
-http://api.vthanhtivi.pw/v1/getlink/tv360_s2/1/2
+http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="onvolleyballtv" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1sLe0hOeZZV_IuxQhygDKD7D-DX5gFqe1",ON Volleyball
 https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
@@ -401,7 +401,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" group-title="1️⃣| Thể Thao" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png",Billiard TV
+#EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/billiardtv.png",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/thumbh_20210524_235219.jpg",MotorRacing
