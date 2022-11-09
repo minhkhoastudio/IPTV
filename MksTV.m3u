@@ -176,19 +176,20 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 01
-https://s.id/liveon01
+#https://s.id/liveon01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAQ/m40_index.m3u8?cc
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 02
-https://s.id/liveon03
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAQ/m40_index.m3u8?cc
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 03
-https://s.id/liveon02
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAQ/m40_index.m3u8?cc
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 04
-https://s.id/liveon04
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAQ/m40_index.m3u8?cc
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 05
-https://s.id/liveon05
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAQ/m40_index.m3u8?cc
 
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj",ON Sports TV 06
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT6/sc-gaFEAA/m30_index.m3u8
@@ -584,11 +585,10 @@ http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 http://gg.gg/paramountchannelvn
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/planetearthhd.jpg",Planet Earth
-#https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
-http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
+http://hoaiptv.duckdns.org:8002/live/tv360.php?id=135
+#http://gg.gg/planetearthvn|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://img.vnmedia.xyz/logo/planetearthhd.jpg",Planet Earth sv2
-#EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=download&id=1pG_MLoRZcJxSwMfuaCwBSkGnZgx-BrGK",Smithsonian Channel
