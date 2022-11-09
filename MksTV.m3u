@@ -529,7 +529,7 @@ http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="2️⃣| Quốc Tế" tvg-logo="https://i.imgur.com/EIpDxnQ.png",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="lovenature" group-title="2️⃣| Quốc Tế" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature
+#EXTINF:-1 tvg-id="lovenature" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=download&id=1WdgZLQIn_NCLM20aLqQjdgZNARpMYj-l",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/man.jpg",Man
@@ -1322,26 +1322,26 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
-#EXTINF:-1 tvg-id="htvc_coop" group-title="8️⃣| Mua sắm" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp",HTVC Co.op
+#EXTINF:-1 tvg-id="htvc_coop" group-title="8️⃣| Mua sắm" tvg-logo="https://drive.google.com/uc?export=download&id=1SHhT1KjEJnkaMtbdPSXp2FTiFyMZECRg",HTVC Co.op
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
-#EXTINF:0 tvg-id="htvc_vgs_shop" group-title="8️⃣| Mua sắm" tvg-logo="https://i.ibb.co/941GkKt/HTVCShop-cc.webp",HTVC VGS Shop
+#EXTINF:0 tvg-id="htvcshopping" group-title="8️⃣| Mua sắm" tvg-logo="https://drive.google.com/uc?export=download&id=1zI8AqGl5CKbfkdKg8be96RaE1YLJpAy9",HTVC VGS Shop
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="8️⃣| Mua sắm" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 VGS Shop
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/28/2
+https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sctv10" group-title="8️⃣| Mua sắm" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png",SCTV10
+#EXTINF:-1 tvg-id="sctv10" group-title="8️⃣| Mua sắm" tvg-logo="https://pbs.twimg.com/media/Fa6qTB2agAkzj1T?format=png",SCTV10
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="8️⃣| Mua sắm" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png",SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="8️⃣| Mua sắm" tvg-logo="https://pbs.twimg.com/media/Fa6qTC-akAET2F-?format=png",SCTV21 HD
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
 
 
-#EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://i0.wp.com/tiinz.com/wp-content/uploads/2021/03/unnamed-2021-03-25T174701.846.jpg?w=900&ssl=1",Litle Saigon TV
+#EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://drive.google.com/uc?export=download&id=1gsvfdSa2veatqgmACIIGKGWK1bHI6Rco",Little Saigon TV
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 
-#EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://vietfilmfest.com/2019/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png",SET TV1
+#EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://drive.google.com/uc?export=download&id=1PsNWmPEYWsVhKWjf4mZ2AKIxHmh3lwOj",SET TV1
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 
 #EXTINF:-1 tvg-id="setshopping" group-title="9️⃣| Hải ngoại" tvg-logo="https://res.cloudinary.com/tinmedia/image/upload/v1/tivis/set-tv2.jpeg",SET TV2
