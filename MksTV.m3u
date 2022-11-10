@@ -397,10 +397,10 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
 
 #EXTINF:-1 tvg-id="cctv5" group-title="1️⃣| Thể Thao" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus" group-title="1️⃣| Thể Thao" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV5+
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/billiardtv.png",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
@@ -607,8 +607,8 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/woman.jpg",Woman
-#http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
-http://gg.gg/womanvn|Referer=http://sctvonline.vn/
+http://hoaiptv.duckdns.org:8002/live/tv360.php?id=163
+#http://gg.gg/womanvn|Referer=http://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="3️⃣| VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv1hd.jpg",VTV1
@@ -729,7 +729,7 @@ https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000
 #EXTINF:-1 tvg-id="hitv" group-title="3️⃣| VTV" tvg-logo="http://trada.info/tv/logos/hitv.jpg",HCATV1 - HiTV
 http://gg.gg/hanoicab1 
 
-#EXTINF:-1 tvg-id="youtv" group-title="3️⃣| VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_165649360688.png",HCATV2 - YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="3️⃣| VTV" tvg-logo="https://i.imgur.com/TNHxeXv.png",HCATV2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="antg" group-title="3️⃣| VTV" tvg-logo="http://trada.info/tv/logos/antg.jpg",An Ninh Thế Giới
@@ -1165,7 +1165,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="daklak" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/daklak.jpg",Đắk Lắk
-https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 
 #EXTINF:-1 tvg-id="dacnong" group-title="7️⃣| Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/daknong.png",Đắk Nông
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
@@ -1186,7 +1187,9 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 
 #EXTINF:-1 tvg-id="gialai" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/gialai.jpg",Gia Lai
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon/gia-lai-1
 
 #EXTINF:-1 tvg-id="hagiang" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/7CmPMCM/Ha-Giang-BEARTV.png",Hà Giang
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
@@ -1210,7 +1213,7 @@ https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 https://live.thhp.vn/thp/index.m3u8
 
 #EXTINF:-1 tvg-id="haiphongplus" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/72CpJK0/haiphongplus-BEARTV.png",Hải Phòng +
-https://live.thhp.vn/hls/thpplus/index.m3u8?1
+https://live.thhp.vn/hls/thpplus/index.m3u8
 
 #EXTINF:-1 tvg-id="haugiang" group-title="7️⃣| Địa Phương" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png",Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
