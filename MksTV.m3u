@@ -300,23 +300,42 @@ https://livevlive.vtvcab.vn/hls/OS_HAY_TV/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ sv2
 https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News
-https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="vff" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg",ON VFF
-https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
-
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-football.jpg",ON Football
 https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-football.jpg",ON Football sv2
 http://gg.gg/onfootball|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="onvolleyball" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1sLe0hOeZZV_IuxQhygDKD7D-DX5gFqe1",ON Volleyball
-https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="1️⃣| Thể Thao" tvg-logo="http://trada.info/tv/logos/vtvcab23hd.jpg",ON Golf 
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab24hd" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg",ON VFF
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab25hd" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1sLe0hOeZZV_IuxQhygDKD7D-DX5gFqe1",ON Volleyball
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab26hd" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png",ON Sport Eng
+#EXTVLCOPT:network-caching=1000
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFAEQ/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab27hd" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png",ON Football Eng
+#EXTVLCOPT:network-caching=1000
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFAEQ/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab28hd" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png",ON Sport News Eng
+#EXTVLCOPT:network-caching=1000
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFAEQ/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab29hd" group-title="1️⃣| Thể Thao" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg",ON Golf Eng
+#EXTVLCOPT:network-caching=1000
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFAEQ/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1oer4PO9sO7y7TKi6IwBB2TesrSSsnF2Z",ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="golfnews" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1uKRhA4e7RD6IQcv_AkRRKkkUs7CcsTxp",Golf News
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
@@ -353,9 +372,6 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1GINZKy5NmMkLbm6wT6yMi9LVStlr7UVt",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://drive.google.com/uc?export=download&id=1oer4PO9sO7y7TKi6IwBB2TesrSSsnF2Z",ONE GOLF HD
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="1️⃣| Thể Thao" tvg-logo="https://i.ibb.co/HBdHsFq/bein-sports-1-BEARTV.png",beIN SPORTS 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
