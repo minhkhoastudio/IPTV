@@ -82,68 +82,53 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/l12jynesa2u4bbb/kplus-ksport1hd.key
-#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+Sport1 
+#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+Sport1 HD
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/4lnq81960mkec7h/kplus-ksport2hd.key
-#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+Sport2 
+#EXTINF:-1 group-title="KÊNH 4K+ ⭐️" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+Sport2 HD
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://vietanhtv.xyz/ic/kcine.png", K+CINE FHD
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://hqth.me/khichtvChampionsGoplaylistm3u8
-
-#EXTINF:-1 tvg-id="klifehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://vietanhtv.xyz/ic/klife.png", K+LIFE FHD
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://hqth.me/khichtvChampions3playlistm3u8
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://vietanhtv.xyz/ic/ksport1.png", K+SPORT1 FHD
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://hqth.me/khichtvChampions1playlistm3u8
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+SPORT2 FHD
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://hqth.me/khichtvChampions2playlistm3u8
-
-#EXTINF:0, K+CINE HD
+#EXTINF:0, K+CINE 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-#EXTINF:0, K+LIFE HD
+#EXTINF:0, K+LIFE 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
-#EXTINF:0, K+ SPORT1 HD
+#EXTINF:0, K+ SPORT1 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-#EXTINF:0, K+SPORT2 HD
+#EXTINF:0, K+SPORT2 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:network-caching=1000
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-#EXTINF:0, K+ KIDS HD
+#EXTINF:0, K+ KIDS 2
 #EXTVLCOPT:network-caching=1000
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#EXTINF:0, K+CINE HD
+
+#EXTINF:0, K+CINE 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://hni-fpt-001-livecdn-vthn2-vnd.vieon.vn/0690cf49f24cd5f1bd844a8c7b52062b/1665931248277/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnwyNzU5N0J8ZDJlYzdlMzZiODIyNzQzZWRjYjJjZjljNmM3YTg4ZDA=
-#EXTINF:0, K+LIFE HD
+#EXTINF:0, K+LIFE 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://hni-fpt-002-livecdn-vthn2-vnd.vieon.vn/86760872ed445bbadf6f1dfca16a557c/1665931248575/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnwyNzU5N0N8YWQ5M2YzMjE5NGE4MmUxNDU3YzhkZmU3ZmIxMDI1OTM=
-#EXTINF:0, K+SPORT1 HD
+#EXTINF:0, K+SPORT1 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/cd0027cbb82290397fefb206fd142454/1665931249025/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8MWU1ZTk0ODAtMTNkMC00YTNjLTk3MGItNzgyODgwMDNkNzI4fGxpdmV0dnwyNzU5ODB8NTQxNjhjMDQ5NjhiNTllNTgyMTM0ODQ1YTExYzk3MTA=
-#EXTINF:0, K+SPORT2 HD
+#EXTINF:0, K+SPORT2 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/5ae566afb4495fdfd4f31f231df1aff7/1665931249481/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnwyNzU5ODJ8OTdiZDJkN2IxNGZlNGQzZDkxZGNjOWY2YTM3NjAyZDY=
-#EXTINF:0, K+KIDS HD
+#EXTINF:0, K+KIDS 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:network-caching=1000
 https://hni-fpt-002-livecdn-vthn2-vnd.vieon.vn/a979eff125072bb23cbe0c50124a5bfd/1665931249970/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=Yjk3NzYwYzUtMjM5Ny1lM2IyLWRhMDgtNjAwYzY5MjIwMDYxfG1vYmlsZV93ZWJ8MGEwOGZmOTMxMDEwYjEyMWUyYWJjOGU2YzdkNzE3NDV8MjYwZjNhYTgtNWU0OC00MDI1LWJlYTQtZmZlZGQ3MTI5NjI0fGxpdmV0dnwyNzU5ODR8MjcwZDllYWRjMDliMzNiYzcwMjNhZWM5NTM4YzgzYjQ=
@@ -1255,8 +1240,8 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 
 #EXTINF:-1 tvg-id="gialai" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/gialai.jpg",Gia Lai
 #http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-https://api.vthanhtivi.pw/v1/getlink/vieon/gia-lai-1
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+#https://api.vthanhtivi.pw/v1/getlink/vieon/gia-lai-1
 
 #EXTINF:-1 tvg-id="hagiang" group-title="7️⃣| Địa Phương" tvg-logo="http://trada.info/tv/logos/hagiang.jpg",Hà Giang
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
@@ -1425,7 +1410,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://drive.google.com/uc?export=download&id=1gsvfdSa2veatqgmACIIGKGWK1bHI6Rco",Little Saigon TV
+#EXTINF:-1 tvg-id="littlesaigon" group-title="9️⃣| Hải ngoại" tvg-logo="https://drive.google.com/uc?export=download&id=1gsvfdSa2veatqgmACIIGKGWK1bHI6Rco",Little Saigon TV
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 
 #EXTINF:-1 tvg-id="settv" group-title="9️⃣| Hải ngoại" tvg-logo="https://drive.google.com/uc?export=download&id=1PsNWmPEYWsVhKWjf4mZ2AKIxHmh3lwOj",SET TV1
