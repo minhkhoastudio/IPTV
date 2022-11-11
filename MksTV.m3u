@@ -1,6 +1,38 @@
 ﻿#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml"
 #Listed by MK Studio: http://hqth.me/tv
 
+#EXTINF:-1 tvg-id="klive1hd" group-title="🫠 K+" tvg-logo="https://logo.anttv.xyz/101.png", K+LIVE 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E/lKqaCoDSJDGmE4sm8uqA", "kid":"oQmXPyCPRAWImODH6+Mezg" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
+
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="🫠 K+" tvg-logo="https://logo.anttv.xyz/102.png", K+LIVE 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1Ry0WuVnmgE1q32jGSbL2g", "kid":"Zvp32FYbRrOGuMbvOajJxA" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="🫠 K+" tvg-logo="https://logo.anttv.xyz/103.png", K+LIVE 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+D2eVPPkivNNYc1PcsT7Xg", "kid":"kvV7YfJMTz+8oe/bDTMvuA" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="😔 K+ FPT PLAY" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+SPORT1 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=2a61a74420d336289a90f1b0dd0b6fab&key=6ee06cbfd2d2eb2d7f237a4bd0edb42b
+https://raintv.tk/get/link/ksport1hd/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="😔 K+ FPT PLAY" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+SPORT2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
+https://raintv.tk/get/link/ksport2hd/index.mpd
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
