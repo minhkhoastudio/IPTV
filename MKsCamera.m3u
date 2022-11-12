@@ -219,8 +219,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | BEACH" tvg-logo="http://gg.gg/mks-youtubelive",Pomerelle Mountain Ski Resort Webcam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uM-oftYVFGA
 
-#EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | BEACH" tvg-logo="http://gg.gg/mks-youtubelive",Deerfield Beach, FL USA
+#EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | BEACH" tvg-logo="http://gg.gg/mks-youtubelive",Deerfield Beach | FL USA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-HAi_5IIAYg
+
+#EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | BEACH" tvg-logo="http://gg.gg/mks-youtubelive",Huntington Beach Pier
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xXV3sz92k8w
 
 
 #EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | EXPLORE" tvg-logo="http://gg.gg/mks-youtubelive",All winter cab rides from majestic railways
@@ -243,6 +246,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 
 #EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | EXPLORE" tvg-logo="http://gg.gg/mks-youtubelive",Extended A-10 Thunderbolt II Cockpit-Pilot View
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bBc_aKCyGKA
+
+#EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | EXPLORE" tvg-logo="http://gg.gg/mks-youtubelive",Live Camera Axis P5415-E
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=NjgJoPHFbCQ
 
 
 #EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | WILD LIFE" tvg-logo="http://gg.gg/mks-youtubelive",Africam Nomad
