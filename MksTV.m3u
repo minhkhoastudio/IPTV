@@ -83,37 +83,6 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎" tvg-logo="",Official Stream of NASA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=21X5lGlDOfg
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Official Stream of NASA TV's Media Channel
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=nA9UZF-SZoQ
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Live Views from the ISS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Earth from Space
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VK3Y-u6mLGQ
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",NASA Preps Artemis I for Launch, SpaceX Builds Florida Starship Pad
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gnt2wZBg89g
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",SpaceX Engine Testing & Development for Starship and Falcon 9 Rockets
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=cOmmvhDQ2HM
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Surface of Mars from Perseverance Rover and Martian Wind Sounds
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9lQYsfNkepk
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",James Webb Space Telescope Captures Dwarf Galaxy WLM
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6wvkuvn7qg0
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Asteroid Apophis Near Earth Countdown
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kYHs9w7y5NE
-
-#EXTINF:-1 tvg-id="" group-title="📽︎| Nasa 🌎",Asteroid Tracking Near Earth
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=V4V10h4F-Rg
-
-
 #EXTINF:-1 group-title="KÊNH SỰ KIỆN ▶️" tvg-logo="https://fptplay.vn/images/logo-2.png",F Event 01
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
 
