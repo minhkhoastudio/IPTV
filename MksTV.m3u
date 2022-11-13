@@ -136,6 +136,9 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p0LXVk4IdzNKUWvnjal5kg","kid":"el9/uFnIQd2aM5kxoP6j8A"}],"type":"temporary"}
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=360",K+Sport1 (VN360SPORT)
+http://152.69.217.167:9981/stream/channelid/106089175?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI&profile=pass
+
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://logo.anttv.xyz/101.png", K+LIVE 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
