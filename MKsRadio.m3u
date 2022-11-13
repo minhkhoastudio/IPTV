@@ -1,5 +1,8 @@
 #EXTM3U
 #Listed by MK Studio: http://hqth.me/radio
+#Donate: 62010000230240 - BIDV
+#Thanks much!
+
 
 #EXTINF:-1 group-title="🎲| Tổng hợp" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png", Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
@@ -215,6 +218,7 @@ http://mp3.littlesaigonradio.com:8000/live
 http://vndcradio2.serverroom.us:4480//;
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://cdn.webrad.io/images/logos/vietnamradio-org/rfi-tieng-viet.png", RFI Tiếng Việt
 http://live02.rfi.fr//rfivietnamien-96k.mp3
+#https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26186g.png", Saigon Radio 106.3FM - Los Angeles, California
 https://ice5.securenetsystems.net/KALI?playSessionID=0712D6B2-DD5D-74B2-ADEF62563B7CBEEA
 #EXTINF:-1 group-title="⛵️| Hải ngoại" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/32/e0/c1/32e0c154-8439-5a2f-3bfe-879daddd9c39/AppIcon-1x_U007emarketing-85-220-0-5.png/492x0w.webp", Saigon Houston 900AM - Houston, Texas
