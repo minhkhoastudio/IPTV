@@ -47,35 +47,35 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NhfjQLd6dvoSMvT2NgFX/Q","kid":"J2F1T2YWNNSVYGMRmN0xIg"}],"type":"temporary"}
-http://code.television4you.xyz/3313530341/cine/manifest.mpd
+https://raintv.tk/get/fpt/cine/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/kkidshd.jpg",K+Kids (FPT1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
-http://code.television4you.xyz/3313530341/kids/manifest.mpd
+https://raintv.tk/get/fpt/kids/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg",K+Life (FPT1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SpPWX15wCbyvVzsYfmj9IQ","kid":"PAIib4vsP5SNPgWDbEEOfg"}],"type":"temporary"}
-http://code.television4you.xyz/3313530341/life/manifest.mpd
+https://raintv.tk/get/fpt/life/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 (FPT1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/2p+vDo+Bk1OF0aoc54AZA","kid":"FPFzX0zFNe+cOlJX0GyY0A"}],"type":"temporary"}
-http://code.television4you.xyz/3313530341/sp1/manifest.mpd
+https://raintv.tk/get/fpt/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 (FPT1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IXDO1r4SZEbO1/CEhiAmA","kid":"9nOu7yTcP0umQ37zs3z6kg"}],"type":"temporary"}
-http://code.television4you.xyz/3313530341/sp2/manifest.mpd
+https://raintv.tk/get/fpt/sp2/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 (FPT2)
@@ -83,14 +83,14 @@ http://code.television4you.xyz/3313530341/sp2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"buBsv9LS6y1/I3pL0O20Kw","kid":"KmGnRCDTNiiakPGw3Qtvqw"}],"type":"temporary"}
-https://raintv.tk/get/link/ksport1hd/index.mpd
+https://raintv.tk/get/fpt/ksport1hd/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 (FPT2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IXDO1r4SZEbO1/CEhiAmA","kid":"9nOu7yTcP0umQ37zs3z6kg"}],"type":"temporary"}
-https://raintv.tk/get/link/ksport2hd/index.mpd
+https://raintv.tk/get/fpt/ksport2hd/index.mpd
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 (FPT3)
@@ -98,14 +98,14 @@ https://raintv.tk/get/link/ksport2hd/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=2a61a74420d336289a90f1b0dd0b6fab&key=6ee06cbfd2d2eb2d7f237a4bd0edb42b
-https://raintv.tk/get/link/ksport1hd/index.mpd
+https://raintv.tk/get/fpt/ksport1hd/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 (FPT3)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
-https://raintv.tk/get/link/ksport2hd/index.mpd
+https://raintv.tk/get/fpt/ksport2hd/index.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine (MyTV)
@@ -135,9 +135,6 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p0LXVk4IdzNKUWvnjal5kg","kid":"el9/uFnIQd2aM5kxoP6j8A"}],"type":"temporary"}
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=360",K+Sport1 (VN360SPORT)
-http://152.69.217.167:9981/stream/channelid/106089175?auth=P.TonsrNWGQ2kjEWvI2EQ5KGI8EI&profile=pass
 
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://logo.anttv.xyz/101.png", K+LIVE 1
