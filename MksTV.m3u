@@ -541,7 +541,7 @@ http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-id="hbocinemax" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/hbocinemax.jpg",HBO Cinemax
-http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/hbofamily.jpg",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1394,11 +1394,11 @@ https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="8️⃣| Mua sắm" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/gsshop-og-image.png",VTVCab11 VGS Shop
 https://vtsstr7.tv24.vn/live/VTVcab11.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="vtvhyundaihomeshopping" group-title="3️⃣| VTV" tvg-logo="http://trada.info/tv/logos/vtvhyundaihomeshopping.jpg"",VTV Hyundai Homeshopping
+https://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="sctv10" group-title="8️⃣| Mua sắm" tvg-logo="https://pbs.twimg.com/media/Fa6qTB2agAkzj1T?format=png",SCTV10
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
-
-#EXTINF:-1 tvg-id="sctv21hd" group-title="8️⃣| Mua sắm" tvg-logo="https://pbs.twimg.com/media/Fa6qTC-akAET2F-?format=png",SCTV21 HD
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
 
 #EXTINF:-1 tvg-id="btv6" group-title="8️⃣| Mua sắm" tvg-logo="http://www.binhthuantv.vn/wp-content/uploads/2022/09/BTV6_websiteNEW.png",BTV6
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
