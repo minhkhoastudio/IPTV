@@ -1,7 +1,5 @@
 ﻿#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml"
 #Listed by MK Studio: http://hqth.me/tv
-#Donate: 62010000230240 - BIDV
-#Thanks much for your help!
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH 4K+ ⭐️" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+CINE (MyK+)
@@ -285,6 +283,7 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="1️⃣| Thể Thao" tvg-logo="http://trada.info/tv/logos/vtvcab3hd.jpg",ON Sports sv2
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+
