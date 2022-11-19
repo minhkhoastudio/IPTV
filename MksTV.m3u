@@ -764,7 +764,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 tvg-id="hgtv" group-title="2️⃣| Quốc Tế" tvg-logo="http://trada.info/tv/logos/hgtv.jpg",HGTV
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 
-#EXTINF:-1 tvg-id="historyhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/History-Channel-Logo-720x450.png",HISTORY
+#EXTINF:-1 tvg-id="historyhd" group-title="2️⃣| Quốc Tế" tvg-logo="https://drive.google.com/uc?export=view&id=1XXgg8In5ZwjWyP5bpY3zrPFi-uRS5QGP",HISTORY
 http://live.vthanhtivi.pw:8080/history
 
 #EXTINF:-1 tvg-id="hitshd" group-title="2️⃣| Quốc Tế" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822037594/91bf6d3a7d09.png",HITS
