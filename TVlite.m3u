@@ -1,6 +1,206 @@
 ﻿#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml"
 #Listed by MK Studio
 
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/i578rcfef7fmw5u/LogoWC2022.jpg",21h30-20/11 | Lễ khai mạc
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/r3r1d34pliljb3c/Qatar-Ecuador.jpg",23h00-20/11 | Qatar - Ecuador (A)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/qme6firjoq51s7i/Anh-Iran.jpg",20h00-21/11 | Anh - Iran (B)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/od2pwmuevpnm81i/Senegal-HaLan.jpg",23h00-21/11 | Senegal - Hà Lan (A)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/339v7xte17224ku/HoaKy-Wales.jpg",02h00-22/11 | Mỹ - Wales (B)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/nq8tubbfdi2pgbn/Argentina-ArapXeut.jpg",17h00-22/11 | Argentina - Saudi Arabia (C)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/9ip023097b6zazb/DanMach-Tunisia.jpg",20h00-22/11 | Đan Mạch - Tunisia (D)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ofd4lq47g60pzz8/Mexico-BaLan.jpg",23h00-22/11 | Mexico - Ba Lan (C)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/1uzhmsxeg5fiiyn/Phap-Uc.jpg",02h00-23/11 | Pháp - Australia (D)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/4rpltyp85g8homt/Maroc-Croatia.jpg",17h00-23/11 | Morocco - Croatia (F)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/e2iulmxxtgozbz5/Duc-NhatBan.jpg",20h00-23/11 | Đức - Nhật Bản (E)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/631ri8mo0xn6055/TayBanNha-CostaRica.jpg",23h00-23/11 | Tây Ban Nha - Costa Rica (E)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/87yvjiub1t1e7s5/Bi-Canada.jpg",02h00-24/11 | Bỉ - Canada (F)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/toci5c4o65mbw4o/ThuySi-Cameroon.jpg",17h00-24/11 | Thụy Sĩ - Cameroon (G)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/7ijjxzl1c860vdp/Uruguay-HanQuoc.jpg",20h00-24/11 | Uruguay - Hàn Quốc (H)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/5dj7q0dgatsspdo/BoDaoNha-Ghana.jpg",23h00-24/11 | Bồ Đào Nha - Ghana (H)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/zrxpzxhjo8kni11/Brasil-Serbia.jpg",02h00-25/11 | Brazil - Serbia (G)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/as6bslepu9z5t0h/Wales-Iran.jpg",17h00-25/11 | Wales - Iran (B)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/scs8ywpkuo3f3l3/Qatar-Senegal.jpg",20h00-25/11 | Qatar - Senegal (A)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/zkfuvn5les1wg6m/HaLan-Ecuador.jpg",23h00-25/11 | Hà Lan - Ecuador (A)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/e1uxo69fso5ae4n/Anh-HoaKy.jpg",02h00-26/11 | Anh - Mỹ (B)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/fskjtdv107f2peu/Tunisia-Uc.jpg",17h00-26/11 | Tunisia - Australia (D)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/w5p9jvhrm0svmad/BaLan-ArapXeut.jpg",20h00-26/11 | Ba Lan - Saudi Arabia (C)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/nk5bl17gygx54yf/Phap-DanMach.jpg",23h00-26/11 | Pháp - Đan Mạch (D)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/1ir83b3q46vijs1/ArapXeut-Mexico.jpg",02h00-27/11 | Argentina - Mexico (C)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/n3kzp031m1bi3an/NhatBan-CostaRica.jpg",17h00-27/11 | Nhật Bản - Costa Rica (E)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/4vw8lf5wtfm9z75/Bi-Maroc.jpg",20h00-27/11 | Bỉ - Morocco (F)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/7orbv7voft4ut7s/Croatia-Canada.jpg",23h00-27/11 | Croatia - Canada (F)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/bvynbak8l5zpkvp/TayBanNha-Duc.jpg",02h00-28/11 | Tây Ban Nha - Đức (E)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/yyp9ko7u2z8bicl/Cameroon-Serbia.jpg",17h00-28/11 | Cameroon - Serbia (G)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/3umu5ualgauksv6/HanQuoc-Ghana.jpg",20h00-28/11 | Hàn Quốc - Ghana (H)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ir0k3p5n6yi1gy7/Brasil-ThuySi.jpg",23h00-28/11 | Brazil - Thụy Sĩ (G)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/rp2096fbojskh57/BoDaoNha-Uruguay.jpg",02h00-29/11 | Bồ Đào Nha - Uruguay (H)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/s4q3xphti5gu32j/Ecuador-Senegal.jpg",22h00-29/11 | Ecuador - Senegal (A)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ot4enh5k2dsq5ai/HaLan-Qatar.jpg",22h00-29/11 | Hà Lan - Qatar (A)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/97gx17enbr6wv7p/Wales-Anh.jpg",02h00-30/11 | Wales - Anh (B)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/xb9v6m8bfwxdqyl/Iran-HoaKy.jpg",02h00-30/11 | Iran - Mỹ (B)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ctq4e7n8xxih95z/Uc-DanMach.jpg",22h00-30/11 | Australia - Đan Mạch (D)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ogg7r8zsk99m6n1/Tunisia-Phap.jpg",22h00-30/11 | Tunisia - Pháp (D)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/6sei1qbsz471728/BaLan-Argentina.jpg",02h00-01/12 | Ba Lan - Argentina (C)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/1ir83b3q46vijs1/ArapXeut-Mexico.jpg",02h00-01/12 | Saudi Arabia - Mexico (C)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/i3telzscn6x238l/Croatia-Bi.jpg",22h00-01/12 | Croatia - Bỉ (F)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/yryweih64esfpsv/Canada-Maroc.jpg",22h00-01/12 | Canada - Morocco (F)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/cdopv0nc3rffrb3/NhatBan-TayBanNha.jpg",02h00-02/12 | Nhật Bản - Tây Ban Nha (E)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/71kou9gyrbk7r8r/CostaRica-Duc.jpg",02h00-02/12 | Costa Rica - Đức (E)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/koow548vxytfqg0/Ghana-Uruguay.jpg",22h00-02/12 | Ghana - Uruguay (H)
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/ay7neo3y45jqrer/HanQuoc-BoDaoNha.jpg",22h00-02/12 | Hàn Quốc - Bồ Đào Nha (H)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/rucrjws3tfminge/Serbia-ThuySi.jpg",02h00-03/12 | Serbia - Thụy Sĩ (G)
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/48n1hwycbcycr26/Cameroon-Brasil.jpg",02h00-03/12 | Cameroon - Brazil (G)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/xwf4j0pq9zy0c1c/Vong16-1.jpg",22h00-03/12 | Nhất bảng A - Nhì bảng B (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/223us7cy8jjgei8/Vong16-2.jpg",02h00-04/12 | Nhì bảng C - Nhì bảng D (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/h0ql79e42umgl0v/Vong16-3.jpg",22h00-04/12 | Nhất bảng D - Nhì bảng C (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/20tuskzi94y9h1e/Vong16-4.jpg",02h00-05/12 | Nhất bảng B - Nhì bảng A (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/krccs9wk577ppf8/Vong16-5.jpg",22h00-05/12 | Nhất bảng E - Nhì bảng F (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/3dj0af2u7i03b52/Vong16-6.jpg",02h00-06/12 | Nhất bảng G - Nhì bảng H (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/duo66jrffzmz36f/Vong16-7.jpg",22h00-06/12 | Nhất bảng F - Nhì bảng E (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/zishhbszfhhg2f2/Vong16-8.jpg",02h00-07/12 | Nhất bảng H - Nhì bảng G (Vòng 1/8)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/4hnd30mytwmkhiq/VongTuKet-1.jpg",22h00-09/12 | Thắng 1/8 - 5 - Thắng 1/8 - 6 (Vòng tứ kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/9s6kj10yqc11i9w/VongTuKet-2.jpg",02h00-10/12 | Thắng 1/8 - 1 - Thắng 1/8 - 2 (Vòng tứ kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/c7oolg5jdbsqawg/VongTuKet-3.jpg",22h00-10/12 | Thắng 1/8 - 7 - Thắng 1/8 - 8 (Vòng tứ kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/bks4twkkechs53t/VongTuKet-4.jpg",02h00-11/12 | Thắng 1/8 - 4 - Thắng 1/8 - 3 (Vòng tứ kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/43z3qubm0ezorgm/VongBanKet-1.jpg",02h00-14/12 | Thắng tứ kết 2 - Thắng tứ kết 1 (Vòng bán kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/urnwisk2h78tzhr/VongBanKet-2.jpg",02h00-15/12 | Thắng tứ kết 4 - Thắng tứ kết 3 (Vòng bán kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/awirajfa3y7g94f/TranHang3.jpg",22h00-17/12 | Thua bán kết 1 - Thua bán kết 2 (Tranh 3/4)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/rdleb7is1iku313/LeBeMac.jpg",20h30-18/12 | Lễ bế mạc
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/mo68gjvqs0yg3pf/TranChungKet.jpg",22h00-18/12 | Thắng bán kết 1 - Thắng bán kết 2 (Chung kết)
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
 
