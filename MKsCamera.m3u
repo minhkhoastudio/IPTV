@@ -25,6 +25,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Camera góc nhìn Cầu Trần Thị Lý | Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bZuCkij0fCI
 
+
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 1 Nguyễn Sinh Cung | Huế
 http://171.251.71.193:3299/live/hues1nguyensinhcung/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 1 Trần Phú | Huế
@@ -65,7 +66,6 @@ http://171.251.71.193:3299/live/hueschosia/index.m3u8
 http://171.251.71.193:3299/live/hueschodale/index.m3u8
 
 
-
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | KHÁC",Hội An | Quảng Nam
 https://livevn.piepme.com/camhls/14789.402a1e77e3ea1fcd2b2a36be6c2c4caa_720p/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | KHÁC", Long Thạnh 1 | Quảng Ngãi
@@ -76,37 +76,6 @@ https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/ind
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | KHÁC",Đường Lê Phụng Hiểu | TP Vũng Tàu
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCcAmLlbqG29QNLreIJubnWg/live
-
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | outube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-
-#EXTINF:-1 tvg-id="" group-title="⚽ | Youtube Live | SPORT" tvg-logo="http://gg.gg/mks-youtubelive",
-http://free.fullspeed.tv/iptv-query?streaming-ip=
 
 
 #EXTINF:-1 tvg-id="" group-title="🌎 | Youtube Live | NASA" tvg-logo="http://gg.gg/mks-youtubelive",Official Stream of NASA TV
