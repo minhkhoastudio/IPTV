@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Công trình Bệnh viện Đà Nẵng
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=04eLa1JjtO0
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9Wv-V0nx9W0
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Trang phục Biểu diễn Phương Trần | Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dy_oDZhAKic
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Cổng trường Nguyễn Huệ | Đà Nẵng
@@ -11,7 +11,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Cổng sau Bệnh viện C Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=b6mdgPBqAi8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Khách sạn Hải Triều | Đà Nẵng
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wAosJr8hMX8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5Re2mVHepXQ
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Khách sạn Merry | Đà Nẵng 1
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Khách sạn Merry | Đà Nẵng 2
@@ -20,19 +20,24 @@ https://livevn.piepme.com/camhls/14789.ee67aa8d5a9da72967f818f8b80e2c03_720p/ind
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Biển Đà Nẵng
 https://livevn.piepme.com/camhls/14789.26f9b0b1eaeb92c6429f89ad0912d156_720p/index.m3u8
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Camera nút giao thông tây Cầu Rồng Đà Nẵng
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CPxp2HKd3fQ
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Đà Nẵng", Camera góc nhìn Cầu Trần Thị Lý | Đà Nẵng
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bZuCkij0fCI
 
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 1 Nguyễn Sinh Cung | Huế
-http://171.251.71.193:3299/live/hues1nguyensinhcung/index.m3u8
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 1 Trần Phú | Huế
-http://171.251.71.193:3299/live/hues1tranphu/index.m3u8
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Cầu Trường Hà | Huế
-http://171.251.71.193:3299/live/huescautruongha/index.m3u8
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 175 Bà Triệu | Huế
-http://171.251.71.193:3299/live/hues175batrieu/index.m3u8
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 78 Bến Nghé | Huế
-http://171.251.71.193:3098/live/hues78bennghe/index.m3u8
-#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Cầu Lòn Bùi Thị Xuân | Huế
-http://171.251.71.193:3098/live/huesbuithixuan/index.m3u8
+
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", ライブカメラ | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=KP56AHqrMn8
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", TOKYO | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DjdUEyjx8GM
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", ４Kライブカメラ | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=zViChqUJULo
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Kabukicho  | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gFRtAAmiFbE
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", 24/7 Stream Walking Manhattan New York | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XajpGSBMwOE
+#EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Public Square, Watertown NY | JAPAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=qP1y7Tdab7Y
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Thành phố | Huế 1
 http://171.251.71.193:3098/live/huesvincom1/index.m3u8
 #EXTINF:-1 group-title="📽︎ | 🇻🇳 | Huế", Thành phố | Huế 2
