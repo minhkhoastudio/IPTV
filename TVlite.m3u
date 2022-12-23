@@ -2,16 +2,6 @@
 #Listed by MK Studio
 
 
-#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/awirajfa3y7g94f/TranHang3.jpg",2022/12/17 - 22h00 | Thua bán kết 1 - Thua bán kết 2 (Tranh 3/4)
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/rdleb7is1iku313/LeBeMac.jpg",2022/12/18 - 20h30 | Lễ bế mạc
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-#EXTINF:-1 group-title="🏆| FIFA World cup 2022" tvg-logo="https://dl.dropboxusercontent.com/s/mo68gjvqs0yg3pf/TranChungKet.jpg",2022/12/18 - 22h00 | Thắng bán kết 1 - Thắng bán kết 2 (Chung kết)
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="1️⃣| Thể Thao" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
 
